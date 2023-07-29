@@ -1,7 +1,7 @@
 import React from "react";
-import FeatureImage1 from "../../assets/images/feature1.webp"
-import FeatureImage2 from "../../assets/images/feature2.webp"
-import FeatureImage3 from "../../assets/images/feature3.webp"
+import FeatureImage1 from "../../assets/images/career_growth.jpg"
+import FeatureImage2 from "../../assets/images/networking.jpg"
+import FeatureImage3 from "../../assets/images/talent.jpg"
 import "./feauturesSection.css"
 
 function feauturesSection() {

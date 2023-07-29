@@ -28,7 +28,7 @@ function heroSection() {
                       className="sc-iGgWBj inuyVc font-weight-400"
                       style={{maxWidth: "530px"}}
                     >
-                      Book and meet over <b> 18,494+ </b> mentors for 1:1
+                      Book and meet over <b> 500+ </b> mentors for 1:1
                       mentorship in our global community.
                     </h4>
                   </div>
@@ -84,7 +84,7 @@ function heroSection() {
                               className="css-1i6axei-placeholder"
                               id="react-select-3-placeholder"
                             >
-                              Country
+                              Mentors
                             </div>
                             <div className="css-19bb58m" data-value="">
                               <input
@@ -140,7 +140,7 @@ function heroSection() {
                               className="css-1i6axei-placeholder"
                               id="react-select-3-placeholder"
                             >
-                              Country
+                              Expertise
                             </div>
                             <div className="css-19bb58m" data-value="">
                               <input

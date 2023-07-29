@@ -3662,7 +3662,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
     --gray: #6c757d;
     --gray-dark: #343a40;
     --grey: #0a243f;
-    --black: #131313;
+    --black: #0E4749;
     --black-2: #262626;
     --grey-1: #384853;
     --grey-2: #6b7b8a;
@@ -3690,7 +3690,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
     --google-blue: #4285f4;
     --transparent-green: rgba(48, 209, 88, 0.2);
     --box-shadow: 0px 4px 19px hsla(206, 8%, 59%, 0.15);
-    --adp-grad-2: linear-gradient(102.73deg, #f1087e -1.51%, #fc945f 131.82%);
+    --adp-grad-2: #E55812;
     --primary: #0a1a7b;
     --secondary: #6c757d;
     --success: #30d158;
@@ -13073,9 +13073,9 @@ select {
     transition: all 0.25s ease-in-out;
 }
 .btn--default {
-    background-color: #05051b !important;
+    background-color: #0E4749 !important;
     color: #fff !important;
-    border-color: #05051b;
+    border-color: #0E4749;
 }
 .btn--default:hover {
     -webkit-box-shadow: 0 6px 50px -8px rgba(5, 5, 27, 0.3);

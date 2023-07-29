@@ -117,6 +117,7 @@
   }
   .djBjss .intro-content--mentor h1, .djBjss .intro-content--mentee h1 {
       line-height: 2.25rem;
+      color: var(--adp-grad-2);
   }
   @media (min-width: 768px){
     .bYPSFE {

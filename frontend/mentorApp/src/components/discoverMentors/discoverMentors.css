@@ -24,6 +24,7 @@
     line-height: 1.2;
     font-weight: 700;
     font-size: 20px;
+    color: var(--adp-grad-2);
 }
 .fXjqxr .mentor__actions {
     display: none;

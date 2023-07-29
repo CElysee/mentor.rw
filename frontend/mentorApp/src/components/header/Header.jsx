@@ -8,11 +8,11 @@ function Header() {
   const nav_links = [
     
     {
-      path: "#about",
+      path: "/about",
       display: "About Us",
     },
     {
-      path: "#findMentor",
+      path: "/findMentor",
       display: "Find Mentor",
     },
     {
@@ -31,7 +31,7 @@ function Header() {
           <div className="nav-left-container">
             <div className="sc-fsvrbR eoXzvi">
               <Link
-                href={"/"}
+                to={"/"}
                 aria-label="Mentor logo"
                 className="sc-kFWlue kfPNKu"
               >
@@ -43,7 +43,7 @@ function Header() {
             <div className="sc-eNSrOW iSkied">
               <div className="sc-dhFUGM hzgUZB">
                 {nav_links.map((item, index) => (
-                  <Link className="nav__item" href={item.path}>
+                  <Link className="nav__item" to={item.path}>
                     <span>{item.display}</span>
                   </Link>
                 ))}

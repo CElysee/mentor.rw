@@ -71,7 +71,7 @@ function mentorCategories() {
               </div>
             </div>
             <div className="description">
-              <h3 className="sc-dcJsrY eXeELN title">Design</h3>
+              <h3 className="sc-dcJsrY eXeELN title">Business Development</h3>
               <p className="sc-jXbUNg kFsvSZ mentor-count">11117 mentors</p>
             </div>
           </div>
@@ -130,7 +130,7 @@ function mentorCategories() {
               </div>
             </div>
             <div className="description">
-              <h3 className="sc-dcJsrY eXeELN title">Product</h3>
+              <h3 className="sc-dcJsrY eXeELN title">Markerting</h3>
               <p className="sc-jXbUNg kFsvSZ mentor-count">4258 mentors</p>
             </div>
           </div>
@@ -189,7 +189,7 @@ function mentorCategories() {
               </div>
             </div>
             <div className="description">
-              <h3 className="sc-dcJsrY eXeELN title">Data Science</h3>
+              <h3 className="sc-dcJsrY eXeELN title">Product Development</h3>
               <p className="sc-jXbUNg kFsvSZ mentor-count">276 mentors</p>
             </div>
           </div>
@@ -248,7 +248,7 @@ function mentorCategories() {
               </div>
             </div>
             <div className="description">
-              <h3 className="sc-dcJsrY eXeELN title">Content Writing</h3>
+              <h3 className="sc-dcJsrY eXeELN title">Management</h3>
               <p className="sc-jXbUNg kFsvSZ mentor-count">520 mentors</p>
             </div>
           </div>
@@ -306,7 +306,7 @@ function mentorCategories() {
               </div>
             </div>
             <div className="description">
-              <h3 className="sc-dcJsrY eXeELN title">Marketing</h3>
+              <h3 className="sc-dcJsrY eXeELN title">Networking</h3>
               <p className="sc-jXbUNg kFsvSZ mentor-count">1594 mentors</p>
             </div>
           </div>
@@ -364,7 +364,7 @@ function mentorCategories() {
               </div>
             </div>
             <div className="description">
-              <h3 className="sc-dcJsrY eXeELN title">Engineering</h3>
+              <h3 className="sc-dcJsrY eXeELN title">Finance</h3>
               <p className="sc-jXbUNg kFsvSZ mentor-count">2005 mentors</p>
             </div>
           </div>

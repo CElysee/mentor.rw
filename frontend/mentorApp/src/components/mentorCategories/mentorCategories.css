@@ -12,6 +12,7 @@
     line-height: 1.2;
     font-weight: 700;
     font-size: 32px;
+    color: var(--adp-grad-2);
 }
 @media (min-width: 768px){
 .fJiOdH {
@@ -110,6 +111,7 @@
     line-height: 1.2;
     font-weight: 700;
     font-size: 20px;
+    color: #0E4749 !important;
 }
 .mentor-count {
     color: var(--grey-2);
