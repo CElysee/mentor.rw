@@ -41,7 +41,7 @@ function Footer() {
                   variant="rounded"
                   aria-hidden="true"
                 >
-                  <g clip-path="url(#clip0)">
+                  <g clipPath="url(#clip0)">
                     <path
                       d="M10.9877 14.248L14.8912 11.9998L10.9877 9.75165V14.248Z"
                       fill="var(--black)"
@@ -118,7 +118,7 @@ function Footer() {
                   variant="rounded"
                   aria-hidden="true"
                 >
-                  <g clip-path="url(#clip0)">
+                  <g clipPath="url(#clip0)">
                     <path
                       d="M14.7445 12C14.7445 13.2686 13.7162 14.2969 12.4477 14.2969C11.1791 14.2969 10.1508 13.2686 10.1508 12C10.1508 10.7314 11.1791 9.70312 12.4477 9.70312C13.7162 9.70312 14.7445 10.7314 14.7445 12Z"
                       fill="var(--black)"
